@@ -2,7 +2,7 @@ SRUG 2010 promo poster
 ===================
 designed and created by Wojciech "baael" Zielinski 2010
 
-![promo 2010](blob/master/preview_promo_2010.jpg)
+![promo 2010](posters/blob/master/preview_promo_2010.jpg)
 
 
 License:
