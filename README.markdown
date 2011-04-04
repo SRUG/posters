@@ -1,4 +1,4 @@
-SRUG February 2011 poster
+SRUG April 2011 poster
 ===================
 designed by Wojciech "baael" Zielinski
 
