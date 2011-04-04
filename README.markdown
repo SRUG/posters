@@ -1,3 +1,10 @@
+SRUG 02.2011 promo poster
+===================
+designed and created by Wojciech "baael" Zielinski 2011
+
+![promo 2011](posters/raw/master/preview_promo_02_2011.png)
+![promo 2011 - kupon](posters/raw/master/kupon.png)
+
 SRUG 2010 promo poster
 ===================
 designed and created by Wojciech "baael" Zielinski 2010
