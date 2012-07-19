@@ -1,3 +1,9 @@
+SRUG July 2012 poster
+===================
+designed and created by Maciej Jarczok
+
+![poster 2010](posters/raw/master/poster-2012_zywiec.png)
+
 SRUG April 2011 poster
 ===================
 designed by Wojciech "baael" Zielinski
